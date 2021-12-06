@@ -14,9 +14,9 @@ using ImGuiNET;
 using Lumina.Excel.GeneratedSheets;
 using Num = System.Numerics;
 
-namespace PennyPincher
+namespace PennyPincherFork
 {
-    public class PennyPincher : IDalamudPlugin
+    public class PennyPincherFork : IDalamudPlugin
     {
         [PluginService] public static DalamudPluginInterface PluginInterface { get; private set; } = null!;
         [PluginService] public static CommandManager CommandManager { get; private set; } = null!;
@@ -41,7 +41,7 @@ namespace PennyPincher
         private bool newRequest;
         private GetFilePointer getFilePtr;
 
-        public PennyPincher()
+        public PennyPincherFork()
         {
             configuration = PluginInterface.GetPluginConfig() as Configuration ?? new Configuration();
             LoadConfig();
@@ -82,7 +82,6 @@ namespace PennyPincher
             PluginInterface.UiBuilder.Draw -= DrawWindow;
             PluginInterface.UiBuilder.OpenConfigUi -= OpenConfigUi;
             CommandManager.RemoveHandler(commandName);
-            PluginInterface.Dispose();
         }
         
         private void Command(string command, string arguments)
