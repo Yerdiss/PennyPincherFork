@@ -7,6 +7,6 @@
   "Tags": [ "marketboard", "undercut", "penny", "clipboard" ],
   "ImageUrls": [],
   "IconUrl": "https://github.com/Yerdiss/PennyPincherFork/raw/master/images/icon.png",
-  "Changelog": "Brings back /penny hq, by popular demand.",
-  "DalamudApiLevel": 5
+  "Changelog": "Temporary fork while we wait for the official update",
+  "DalamudApiLevel": 6
 }

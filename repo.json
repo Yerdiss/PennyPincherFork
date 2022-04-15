@@ -1,21 +1,16 @@
 [
   {
     "Author": "Jason Lam, Fork by Yerdiss",
-    "Name": "PennyPincherFork",
-    "Description": "Runtime mod loader and manager.",
+    "Name": "Penny Pincher Fork",
+    "Description": "Easy Market Price Updating",
     "InternalName": "PennyPincherFork",
-    "AssemblyVersion": "1.4.0.3-pre",
-    "TestingAssemblyVersion": "1.4.0.3-pre",
+    "AssemblyVersion": "1.4.1",
     "RepoUrl": "https://github.com/Yerdiss/PennyPincherFork",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/Yerdiss/PennyPincherFork/releases/download/1.4.0.3-pre/PennyPincherFork-1.4.0.3-pre.zip",
-    "DownloadLinkTesting": "https://github.com/Yerdiss/PennyPincherFork/releases/download/1.4.0.3-pre/PennyPincherFork-1.4.0.3-pre.zip",
-    "DownloadLinkUpdate": "https://github.com/Yerdiss/PennyPincherFork/releases/download/1.4.0.3-pre/PennyPincherFork-1.4.0.3-pre.zip",
+    "DownloadLinkInstall": "https://github.com/Yerdiss/PennyPincherFork/releases/download/1.4.0.3-pre/PennyPincherFork-1.4.1.zip",
+    "DownloadLinkTesting": "https://github.com/Yerdiss/PennyPincherFork/releases/download/1.4.0.3-pre/PennyPincherFork-1.4.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Yerdiss/PennyPincherFork/releases/download/1.4.0.3-pre/PennyPincherFork-1.4.1.zip",
     "IconUrl": "https://github.com/Yerdiss/PennyPincherFork/master/images/icon.png"
   }
 ]
