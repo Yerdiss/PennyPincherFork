@@ -24,7 +24,7 @@ Therefore, your new workflow becomes this:
 This both speeds up the process and reduces room for error from typos.
 
 ## Changelog
-1.4.0.3-pre" Temporary Inofficial Fork"
+1.4.1:   Temporary Inofficial Fork
 1.4.0.2: API version bump
 1.4.0.1: `/penny hq` returns, by popular demand
 1.4.0.0: Configuration via UI instead of slash-commands  
